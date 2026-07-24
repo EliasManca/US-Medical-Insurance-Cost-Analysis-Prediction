@@ -54,6 +54,10 @@ Three regression models were trained and evaluated using **80/20 train-test spli
 
 ## 🚀 How to Run the Project
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/medical-cost-analysis.git](https://github.com/your-username/medical-cost-analysis.git)
+You can run this project directly in your browser without installing anything locally:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NtMJcLeXIJMLqQKH-WJigOS_DmcFa_F5)
+
+1. Click the **"Open In Colab"** badge above.
+2. Go to **Runtime > Run all** (or press `Ctrl + F9`).
+3. Make sure to upload the `insurance.csv` file to the Colab environment session storage when prompted, or run the automated dataset download step in the notebook.
