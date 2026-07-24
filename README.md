@@ -38,7 +38,7 @@ Three regression models were trained and evaluated using **80/20 train-test spli
 
 ## 🎯 Business Impact & Value
 * **High Accuracy ($R^2 \ge 0.86$):** The Random Forest model explains **over 86% of the variance** in annual medical charges using just 6 primary features.
-* **70%+ Error Reduction:** Compared to a baseline strategy using overall historical averages (MAE ~$9,000), our model lowers the mean absolute prediction error down to **~$2,500**.
+* **70%+ Error Reduction:** Compared to a baseline strategy using overall historical averages (MAE ~ $9,000), our model lowers the mean absolute prediction error down to **~ $2,500**.
 * **Risk Management:** Allows underwriters to quickly flag high-risk demographic combinations (e.g., Obese + Smoker) and adjust premiums accurately.
 
 ---
